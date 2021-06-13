@@ -19,8 +19,7 @@ After implementing gradient descent algorithm and training the model, the plot d
 <img src="screenshots/prediction1.png" width="550" height="390" />
 
 ## Part II: Linear Regression with Multiple Variables
-This part implements linear regression with multiple variables to predict the prices of houses on the basis of size of the house and number of bedrooms
-collect information on recent houses sold and make a model of housing prices. The ﬁle ``Data/ex1data2.txt`` contains a training set of housing prices in a city. 
+This part implements linear regression with multiple variables in ``Linear Regression with Multiple Variables.ipynb`` file to predict the prices of houses on the basis of size of the house and number of bedrooms. The ﬁle ``Data/ex1data2.txt`` contains a training set of housing prices in a city. 
 The ﬁrst column is the size of the house (in square feet), the second column is the number of bedrooms, and the third column is the price of the house.
 
 The gradient descent for multiple variables is same as that for a univariate regression problem with the only diﬀerence of multiple features. The hypothesis function 
